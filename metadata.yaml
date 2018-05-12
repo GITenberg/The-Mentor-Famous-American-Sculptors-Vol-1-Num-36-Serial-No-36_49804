@@ -1,10 +1,16 @@
 _repo: The-Mentor-Famous-American-Sculptors-Vol-1-Num-36-Serial-No-36_49804
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49804-h/images/cover.jpg
 creator:
   author:
     agent_name: Taft, Lorado
     gutenberg_agent_id: '45549'
     url: http://www.gutenberg.org/2009/agents/45549
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49804#The-Mentor-Famous-American-Sculptors-Vol-1-Num-36-Serial-No-36
 gutenberg_issued: '2015-08-28'
 gutenberg_type: Text
 identifiers:
